@@ -34,7 +34,7 @@ function main() {
     console.log(res);
 }
 
-####PSEUDOCODE
+#### PSEUDOCODE
 input a = pick as integer from readLine input
 input b = pick as integer from readLine input
 
