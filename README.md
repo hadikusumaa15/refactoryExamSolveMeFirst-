@@ -44,7 +44,7 @@ output = the value of a plus b
 
 #### How to run the code :
 1. copy the code to url 'https://www.hackerrank.com/challenges/solve-me-first/problem' (make sure the code bar is empty)
-2. paste the code to the code bar
+2. paste the JAVASCRIPT CODE to the code bar
 3. select "javascript(Node.js)" as the language
 4. click Run Program Button at the bottom right of the code bar
 
