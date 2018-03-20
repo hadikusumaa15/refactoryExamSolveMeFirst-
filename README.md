@@ -50,6 +50,7 @@ function main() {
 
 #### PSEUDOCODE
 input a = pick as integer from readLine input
+
 input b = pick as integer from readLine input
 
 process = a plus b
